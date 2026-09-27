@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "lucagoudemais-B59h.aternos.me:35080",
+    "ip": "lucagoudemais-B59h.aternos.me",
     "port": 35080,
     "version": "",
     "try-creative": false
